@@ -11,7 +11,7 @@ Sourceduty's JavaScript projects encompass a variety of concepts and examples th
 
 [Catch Them All](https://github.com/sourceduty/Catch_Them_All)
 <br>
-[World Clocks Live Wallpaper](https://github.com/sourceduty/World_Clocks_Live_Wallpaper)
+[World Clocks](https://github.com/sourceduty/World_Clocks)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
